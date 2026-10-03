@@ -1,0 +1,11 @@
+﻿{
+  "streams": [
+    {
+      "title": "Filmio HD Stream",
+      "url": "https://filmo.to/embed/the-runner",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "metas": [
+    {
+      "id": "living-life",
+      "type": "video",
+      "name": "Living Life",
+      "poster": "https://filmo.to/placeholder-poster.jpg",
+      "description": "Aktueller Film aus dem Filmio Katalog."
+    },
+    {
+      "id": "the-deputy",
+      "type": "video",
+      "name": "The Deputy",
+      "poster": "https://filmo.to/placeholder-poster.jpg",
+      "description": "Action- und Thriller-Highlight auf Filmio."
+    },
+    {
+      "id": "the-runner",
+      "type": "video",
+      "name": "The Runner",
+      "poster": "https://filmo.to/placeholder-poster.jpg",
+      "description": "Spannender Spielfilm verfügbar auf Filmio."
+    }
+  ]
+}

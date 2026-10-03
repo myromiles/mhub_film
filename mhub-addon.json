@@ -1,0 +1,22 @@
+﻿{
+  "id": "filmio-addon",
+  "name": "Filmio.to Addon",
+  "version": "1.0.0",
+  "specVersion": 2,
+  "description": "mHub Addon für Filmio.to Filme und Streams",
+  "resources": [
+    "catalog",
+    "item",
+    "source"
+  ],
+  "types": [
+    "video"
+  ],
+  "catalogs": [
+    {
+      "id": "filmio_movies",
+      "name": "Filmio Filme",
+      "type": "video"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "meta": {
+    "id": "living-life",
+    "type": "video",
+    "name": "Living Life",
+    "poster": "https://filmo.to/placeholder-poster.jpg",
+    "background": "https://filmo.to/placeholder-bg.jpg",
+    "description": "Detaillierte Beschreibung des Films Living Life, gestreamt via Filmio.",
+    "genres": ["Drama", "Thriller"],
+    "releaseInfo": "2026"
+  }
+}

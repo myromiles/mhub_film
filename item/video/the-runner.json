@@ -1,0 +1,12 @@
+﻿{
+  "meta": {
+    "id": "the-runner",
+    "type": "video",
+    "name": "The Runner",
+    "poster": "https://filmo.to/placeholder-poster.jpg",
+    "background": "https://filmo.to/placeholder-bg.jpg",
+    "description": "Detaillierte Beschreibung des Films The Runner, gestreamt via Filmio.",
+    "genres": ["Action", "Adventure"],
+    "releaseInfo": "2026"
+  }
+}

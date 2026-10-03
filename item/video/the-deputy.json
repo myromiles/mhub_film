@@ -1,0 +1,12 @@
+﻿{
+  "meta": {
+    "id": "the-deputy",
+    "type": "video",
+    "name": "The Deputy",
+    "poster": "https://filmo.to/placeholder-poster.jpg",
+    "background": "https://filmo.to/placeholder-bg.jpg",
+    "description": "Detaillierte Beschreibung des Films The Deputy, gestreamt via Filmio.",
+    "genres": ["Action", "Crime"],
+    "releaseInfo": "2026"
+  }
+}
